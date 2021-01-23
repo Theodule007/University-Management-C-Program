@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611242100 source:c:\users\simil gralda\documents\c pr\managementmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1611247824 c:\users\simil gralda\documents\c pr\managementmanager\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1611247922 source:c:\users\simil gralda\documents\c pr\managementmanager\fonctions.c
+	"headers.h"
+
